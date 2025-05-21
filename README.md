@@ -8,5 +8,5 @@
     + Chức năng Download và Upload file.
 # Giao diện 
 <p align ="center">
-  <img src="aes.gif"  width="400" />
+  <img src="aes.jpg"  width="400" />
 </p>
